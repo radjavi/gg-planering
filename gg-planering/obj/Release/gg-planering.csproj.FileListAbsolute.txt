@@ -1,0 +1,14 @@
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Release\gg-planering.exe.config
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Release\gg-planering.exe.manifest
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Release\gg-planering.application
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Release\gg-planering.exe
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Release\gg-planering.pdb
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Release\EPPlus.dll
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Release\EPPlus.xml
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Release\gg_planering.Form1.resources
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Release\gg_planering.Properties.Resources.resources
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Release\gg-planering.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Release\gg-planering.exe.manifest
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Release\gg-planering.application
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Release\gg-planering.exe
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Release\gg-planering.pdb

@@ -1,0 +1,15 @@
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Debug\gg-planering.exe.config
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Debug\gg-planering.exe
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Debug\gg-planering.pdb
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg-planering.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg_planering.Form1.resources
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg_planering.Properties.Resources.resources
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg-planering.csproj.GenerateResource.Cache
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg-planering.exe
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg-planering.pdb
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Debug\EPPlus.dll
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Debug\EPPlus.xml
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Debug\gg-planering.exe.manifest
+F:\Documents\Visual Studio\gg-planering\gg-planering\bin\Debug\gg-planering.application
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg-planering.exe.manifest
+F:\Documents\Visual Studio\gg-planering\gg-planering\obj\Debug\gg-planering.application
